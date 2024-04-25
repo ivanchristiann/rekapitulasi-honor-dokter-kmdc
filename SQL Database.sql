@@ -20,6 +20,9 @@ SET time_zone = "+00:00";
 --
 -- Database: `rekapkmdc`
 --
+
+DROP SCHEMA IF EXISTS `rekapkmdc`;
+
 create schema rekapkmdc;
 USE `rekapkmdc`;
 
